@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 🛡️ Advanced Python Keylogger (For Educational Use)
 
@@ -68,3 +69,6 @@ All data is silently stored in a hidden `AppData\MicrosoftLogs` folder and sent 
 - Name: Lohith  
 - Program: Masters in Cybersecurity  
 - LinkedIn: [its-lohith](https://www.linkedin.com/in/its-lohith-944909318/)
+=======
+# Advanced-Key-Logger
+>>>>>>> 1f628c5017995a298f32318f9047b0dc071e0edf
